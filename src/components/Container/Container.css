@@ -4,8 +4,7 @@
   transform: translate3d(0, 0, 0);
   backface-visibility: hidden;
   perspective: 1000px;
-  background: gray;
-  background-color: beige;
+  background-color: rgb(241, 187, 87);
 }
 
 .shake {
