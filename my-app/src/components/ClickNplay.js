@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
-import './App.css';
+import Navbar from './Navbar';
+import Banner from './Banner';
+import Container from './Container';
 import images from '../images';
+import Footer from './Footer';
 
 class ClickNplay extends Component {
   state = {
