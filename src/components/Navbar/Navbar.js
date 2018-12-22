@@ -2,6 +2,7 @@ import React from 'react';
 import './Navbar.css';
 
 const Navbar = props => (
+
   <div className="navbar ">
   <div>ClickNplay</div>
   <div className={props.navMsgColor}>{props.navMessage}</div>
